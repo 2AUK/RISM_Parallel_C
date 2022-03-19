@@ -9,3 +9,5 @@ Planned features:
 - [ ] XRISM
 - [ ] Modified SPC/E solvent
 - [ ] Solute TBD
+
+[What is RISM?](https://www.sciencedirect.com/science/article/abs/pii/0009261481854747)
